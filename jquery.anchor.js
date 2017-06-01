@@ -61,7 +61,7 @@ function cleanUrl(url){
 		return '#'+nextTarget
 	}else if(action== "previous"){
 		var nextTarget = tags[0][1]
-		for (var i = 0; i < tags.length; i++) {
+		for (var i = tags.length-1; i >=0; i--) {
 			 if(tags[i][0] < status){
 				nextTarget = tags[i][1]
 				_status = tags[i][0]
