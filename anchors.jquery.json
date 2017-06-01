@@ -1,0 +1,30 @@
+{
+
+  "manifest_version": "1",
+  "name": "anchors",
+  "version": "1.0.0",
+  "title": "Anchors",
+
+  "default_locale": "en",
+  "description": "jQuery plugin to scrol from one anchor to the other on key up/down/rigth/left",
+  "author": {
+    "name" : "Jean-Philippe Beaudet",
+     "email" : "jpbeaudet@s3r3nity.com",
+     "url" : "http://jeanphilippebeaudet.com/"
+  },
+  "background": {
+    "persistent": false
+  },
+  "dependencies" :
+    {
+        "jquery" : ">=1.0.0"
+    },
+    "licenses": [
+    {
+        "type": "GPL-3.0",
+        "url": "https://opensource.org/licenses/GPL-3.0"
+    }
+    ]
+}
+
+ 
