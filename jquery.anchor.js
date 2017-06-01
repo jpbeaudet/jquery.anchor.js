@@ -86,7 +86,8 @@ function cleanUrl(url){
 		var target = getTarget(tags, status, "next")
 		//console.log("$.fn.nextTag target: "+target);
 		$(target).focus();
-		window.location.href = __dirname+target;
+		location.hash = target
+		
 		return this;
 		};
 /*!
@@ -101,7 +102,8 @@ function cleanUrl(url){
 		var target = getTarget(tags, status, "previous")
 		//console.log("$.fn.previousTag target: "+target);
 		$(target).focus();
-		window.location.href = __dirname+target;
+		location.hash = target
+		
 		return this;
 		};
 	
