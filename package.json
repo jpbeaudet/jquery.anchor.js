@@ -1,7 +1,7 @@
 {
-  "name": "anchors",
-  "version": "1.1.0",
-  "description": "jQuery plugin to scrol from one anchor to the other on key up/down/rigth/left",
+  "name": "anchors_keys",
+  "version": "1.1.1",
+  "description": "jQuery plugin to scroll from one anchor to the other on key up/down/rigth/left",
   "main": "jquery.anchor.js",
   "repository": {
     "type": "git",
