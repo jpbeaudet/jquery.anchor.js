@@ -6,7 +6,7 @@
  * 
  * Copyright (C) 2017 Jean-Philippe Beaudet
  * License GNU 3.0
- * Version: 1.0.4
+ * Version: 1.0.5
  * Dependencies : jQuery
  */
  

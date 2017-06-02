@@ -3,7 +3,7 @@ jQuery plugin to scrol from one anchor to the other on key up/down/rigth/left
 ----
 
 #### Author : Jean-Philippe Beaudet
-#### Version: 1.0.4
+#### Version: 1.0.5
 
 #### Usage : 
 
