@@ -1,6 +1,6 @@
 {
   "name": "anchors",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "jQuery plugin to scrol from one anchor to the other on key up/down/rigth/left",
   "main": "jquery.anchor.js",
   "repository": {
@@ -13,7 +13,7 @@
   ],
   "authors": "Jean-Philippe Beaudet <jpbeaudet@s3r3nity.com> ",
   "dependencies": {
-    "jquery": ">=1.0.0",
+    "jquery": ""
 
   }
 }
