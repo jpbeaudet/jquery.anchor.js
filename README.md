@@ -3,7 +3,7 @@ jQuery plugin to scrol from one anchor to the other on key up/down/rigth/left
 ----
 
 #### Author : Jean-Philippe Beaudet
-#### Version: 1.0
+#### Version: 1.0.4
 
 #### Usage : 
 
@@ -32,5 +32,18 @@ add script call for jquery.anchor.js AFTER jquery
     <script src="js/jquery.anchors.js"></script>
   </body>
 </html>
+
+````
+
+You can change the tags to scroll from by modifying the _tag global at the start of the script, 
+you can also change the starting list index, you can pass multiple tags in an array to select 
+more than one element type . 
+
+by accesing the _tag and _status global , you can also user the $.fn nextTag and previousTag directly in jquery with any selector
+
+````
+
+$('selector').nextTag('#id', _status)
+$('selector').previousTag('#id', _status)
 
 ````

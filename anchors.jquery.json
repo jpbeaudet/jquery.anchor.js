@@ -1,8 +1,8 @@
 {
 
-  "manifest_version": "1",
+  "manifest_version": "1.0.4",
   "name": "anchors",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "title": "Anchors",
 
   "default_locale": "en",
